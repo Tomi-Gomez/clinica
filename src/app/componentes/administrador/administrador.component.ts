@@ -266,7 +266,7 @@ public generarPDF() {
   // Cargar la imagen del logo antes de generar el PDF
   const img = new Image();
   
- console.log("kjsdkflalkjshdf",data);
+  console.log("kjsdkflalkjshdf",data);
   //img.src = logoUrl;
 
   console.log("paso 2");
